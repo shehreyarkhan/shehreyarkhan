@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehreyarkhan&label=Profile%20views&color=0e75b6&style=flat" alt="shehreyarkhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehreyarkhan" alt="shehreyarkhan" /></a> </p>
-
 - 🔭 Developed a Real-Time LMS Dashboard for Enhanced Analytics. I collaborated with a cross-functional team to design and deploy a real-time user-centric dashboard using React, Next.js, Node.js, and MongoDB. This project allowed clients to monitor key performance indicators in real-time, manage salaries and fees, leading to a 25% increase in client satisfaction and a 40% reduction in data access time. **ZamaSchool EdTech**
 
 - 🌱 Strengthened security through Data Encryption, Implemented AES encryption and SSL certificates on sensitive client data within our CRM, ensuring compliance with security standards and reducing vulnerability to potential threats. **Enrolled in Cybersecurity Analyst (CompTIA CySA+) certification from MedCerts.**
