@@ -1,30 +1,99 @@
-<h1 align="center">Hi there! 👋 I'm Shehreyar Khan, a Results-Oriented Full-Stack Developer and Cloud Enthusiast</h1> <h3 align="center">👨‍💻 About Me: A passionate and solutions-driven software engineer with a strong background in **Computer Science** and **Application Development**. I specialize in crafting user-focused, efficient, and innovative web applications that make a tangible impact. My journey in tech combines **Full-Stack Development**, **Cloud Technologies**, and continuous learning, empowering me to deliver measurable results in dynamic environments. In 2024, I joined the **TripleTen Full Stack Developer Bootcamp**, a rigorous 10-month program starting in September 2024. During this journey, I collaborated with peers, mentored students on technical projects, and honed my skills across a wide array of modern development technologies. </h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehreyarkhan&label=Profile%20views&color=0e75b6&style=flat" alt="shehreyarkhan" /> </p>
+<h1 align="center">Hi there! 👋 I'm Shehreyar Khan, a Full-Stack Developer and Problem-Solving Enthusiast</h1>
 
-- 🔭 Developed a Real-Time LMS Dashboard for Enhanced Analytics. I collaborated with a cross-functional team to design and deploy a real-time user-centric dashboard using React, Next.js, Node.js, and MongoDB. This project allowed clients to monitor key performance indicators in real-time, manage salaries and fees, leading to a 25% increase in client satisfaction and a 40% reduction in data access time. **ZamaSchool EdTech**
+<h3 align="center">🚀 Empowering Businesses with Scalable, Innovative Solutions</h3>
 
-- 🌱 Strengthened security through Data Encryption, Implemented AES encryption and SSL certificates on sensitive client data within our CRM, ensuring compliance with security standards and reducing vulnerability to potential threats. **Enrolled in Cybersecurity Analyst (CompTIA CySA+) certification from MedCerts.**
+---
 
-- 🤝 Bringing Blockchain to Life: Curious about blockchain’s real-world impact? I integrated secure, transparent transaction processing in an internal project that’s now saving both time and costs — transforming complex ideas into practical, business-ready applications. **DeFi & NFT Marketplace**
+### 👨‍💻 **About Me**
+I am a highly motivated **Full-Stack Developer** with a strong foundation in **Computer Science** and a proven track record of delivering impactful, user-focused applications. With a passion for problem-solving and continuous learning, I specialize in building modern web and cloud-based solutions that drive measurable results.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/shehreyarkhan](https://github.com/shehreyarkhan)
+In **2024**, I enrolled in the **TripleTen Full Stack Developer Bootcamp**, a 10-month immersive program that has honed my technical and collaborative skills. Throughout the bootcamp, I:
+- Helped fellow students troubleshoot project challenges and deepen their understanding of course concepts.  
+- Built dynamic, responsive, and secure applications using the latest web development technologies.  
 
-- 📫 How to reach me [in social networks or through my personal Email](in social networks or through my personal Email)
+I thrive in environments that encourage creativity, collaboration, and innovation, and I’m eager to contribute to impactful projects in **New York**.
 
-- 🎯 Certifications & Skills That Power My Projects: **AWS DevOps Certified, Supply Chain Excellence (Rutgers University), Full Stack Development, CyberSecurity Analyst (CompTIA CySA+)**
+---
 
-- 🎩 Why Connect? **If you’re looking for someone who doesn’t just code but deeply understands the why behind the tech, let’s talk. From crafting customer journeys to deploying resilient systems, I bring an edge of innovation and a readiness to take on unique challenges.**
+### 🌟 **Key Highlights**
+#### ✅ **Real-Time LMS Dashboard**
+- **Description**: Developed a user-friendly dashboard to monitor key performance indicators, salaries, and fees in real-time.  
+- **Tech Stack**: React, Next.js, Node.js, MongoDB.  
+- **Results**: Increased client satisfaction by 25% and reduced data access time by 40%.  
+- **Client**: **ZamaSchool EdTech**
 
-- 🎯 My Goals: [To leverage my development skills, cloud knowledge, and data-driven mindset in a dynamic software engineering role where I can drive innovation, contribute to impactful projects, and support a collaborative team environment.](To leverage my development skills, cloud knowledge, and data-driven mindset in a dynamic software engineering role where I can drive innovation, contribute to impactful projects, and support a collaborative team environment.)
+#### ✅ **Blockchain-Driven Transactions**  
+- **Description**: Integrated secure, transparent transaction processing using blockchain technology for an internal project.  
+- **Impact**: Streamlined operations, reduced costs, and enhanced trust.  
+- **Domains**: DeFi and NFT Marketplace.
 
-- ⚡ Fun fact **☕️ Code & Coffee Addict, 🔍 The Debug Detective**
+#### ✅ **Data Security Optimization**  
+- **Description**: Strengthened CRM security by implementing AES encryption and SSL certificates.  
+- **Impact**: Reduced vulnerabilities and ensured compliance with industry security standards.  
+- **Current Goal**: Pursuing **Cybersecurity Analyst (CompTIA CySA+)** certification.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shehreyarkhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehreyarkhann" height="30" width="40" /></a>
-<a href="https://instagram.com/shehreyarkhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehreyarkhann" height="30" width="40" /></a>
+---
+
+### 🔧 **Tech Stack**
+#### **Frontend Development**
+- **Languages**: HTML5, CSS3, JavaScript/JSX.  
+- **Frameworks**: React, Next.js.  
+- **Styling**: Flexbox, Grid Layout, TailwindCSS, Sass, BEM.  
+- **Tools**: Figma, Adobe XD, Responsive Design.  
+
+#### **Backend Development**
+- **Languages**: Node.js, Express.js.  
+- **Databases**: MongoDB, Mongoose, PostgreSQL, Microsoft SQL.  
+- **API Development**: RESTful APIs, GraphQL.  
+
+#### **Cloud & DevOps**
+- **Platforms**: Microsoft Azure Cloud, AWS.  
+- **Tools**: Docker, Webpack, NPM.  
+
+#### **Version Control & Deployment**
+- Git/GitHub, Postman, Heroku.
+
+---
+
+### 📈 **Certifications & Continuous Learning**
+- **AWS DevOps Certified**  
+- **Cybersecurity Analyst (CompTIA CySA+)**  
+- **Full-Stack Development** (TripleTen Bootcamp)
+
+---
+
+### 🎯 **Why Work With Me?**
+I bring more than just technical expertise:
+- **Problem-Solver**: I tackle complex challenges with creativity and precision.  
+- **Team Player**: I thrive in collaborative environments, mentoring others and fostering innovation.  
+- **Impact-Driven**: Every project I undertake focuses on delivering measurable results.  
+
+If you're seeking a developer who combines technical expertise with a passion for innovation, let's connect!
+
+---
+
+### 📫 **Let's Connect**
+- **GitHub**: [https://github.com/shehreyarkhan](https://github.com/shehreyarkhan)  
+- **LinkedIn**: [https://linkedin.com/in/shehreyarkhann](https://linkedin.com/in/shehreyarkhann)  
+- **Email**: shehreyarkhan@example.com  
+
+---
+
+### 🌟 **Languages and Tools**
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+### 📊 **GitHub Stats**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehreyarkhan&show_icons=true&locale=en&layout=compact" alt="shehreyarkhan" /></p>
