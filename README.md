@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! 👋 I'm Shehreyar Khan, a Full-Stack Developer and Problem-Solving Enthusiast</h1>
+<h1 align="center">Hi there! 👋 I'm Shehreyar Khan, 
+  A Full-Stack Developer and Problem-Solving Enthusiast</h1>
 
 <h3 align="center">🚀 Empowering Businesses with Scalable, Innovative Solutions</h3>
 
